@@ -1,1 +1,1 @@
-# MachineLearningproject
+The House Price Prediction project uses Python, Pandas, NumPy, and Scikit-learn to predict property prices in Sydney and Melbourne. It utilizes the Random Forest Regressor model and evaluates performance with regression metrics like Mean Absolute Error (MAE).
